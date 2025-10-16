@@ -1,0 +1,5 @@
+---
+title: "Setup"
+---
+
+This is a placeholder for basic Jellyfin setup.

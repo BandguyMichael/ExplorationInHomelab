@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Quarto"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+       - index.qmd
+       - about.qmd
+       - hardwareos.qmd
+       - setup.qmd
+       - access.qmd
+       - configuration.qmd
+       - accounts.qmd
+       - iptv.qmd
+
+format:
+  html:
+    theme: pulse
+    fontsize: 1.1em
+    css: styles.css
+    toc: true
+
+
+

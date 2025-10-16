@@ -1,0 +1,5 @@
+---
+title: "Hardware and Operating Systems"
+---
+
+This is a placeholder for hardware and OS info.

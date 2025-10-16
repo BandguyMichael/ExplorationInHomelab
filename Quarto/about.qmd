@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Site by: Michael Leiby
+
+This is a placeholder for additional about info.

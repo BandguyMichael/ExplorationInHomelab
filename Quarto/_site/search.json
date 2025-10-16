@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Site by: Michael Leiby\nThis is a placeholder for additional about info.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Account Management",
+    "section": "",
+    "text": "This is a placeholder for account management.",
+    "crumbs": [
+      "Account Management"
+    ]
+  },
+  {
+    "objectID": "iptv.html",
+    "href": "iptv.html",
+    "title": "IPTV",
+    "section": "",
+    "text": "This is a placeholder for IPTV.",
+    "crumbs": [
+      "IPTV"
+    ]
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "Setup",
+    "section": "",
+    "text": "This is a placeholder for basic Jellyfin setup.",
+    "crumbs": [
+      "Setup"
+    ]
+  },
+  {
+    "objectID": "access.html",
+    "href": "access.html",
+    "title": "Remote Access",
+    "section": "",
+    "text": "This is a placeholder for remote access.",
+    "crumbs": [
+      "Remote Access"
+    ]
+  },
+  {
+    "objectID": "configuration.html",
+    "href": "configuration.html",
+    "title": "Server Configuration",
+    "section": "",
+    "text": "This is a placeholder for server configuration.",
+    "crumbs": [
+      "Server Configuration"
+    ]
+  },
+  {
+    "objectID": "accounts.html",
+    "href": "accounts.html",
+    "title": "Account Management",
+    "section": "",
+    "text": "This is a placeholder for account management.",
+    "crumbs": [
+      "Account Management"
+    ]
+  },
+  {
+    "objectID": "hardwareos.html",
+    "href": "hardwareos.html",
+    "title": "Hardware and Operating Systems",
+    "section": "",
+    "text": "This is a placeholder for hardware and OS info.",
+    "crumbs": [
+      "Hardware and Operating Systems"
+    ]
+  }
+]
