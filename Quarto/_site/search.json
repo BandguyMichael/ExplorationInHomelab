@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Site by: Michael Leiby\nThis is a placeholder for additional about info.",
+    "text": "This site was created by Michael Leiby for his Furman CSC-475 project. The purpose of this site is to provide a guide on how to set up a media server using Jellyfin. The information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums and other guides.",
     "crumbs": [
       "About"
     ]
@@ -77,6 +77,16 @@
     "text": "This is a placeholder for hardware and OS info.",
     "crumbs": [
       "Hardware and Operating Systems"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This website serves as a guide for setting up a media server with Jellyfin.\nJellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.\nIncluded in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.",
+    "crumbs": [
+      "Home"
     ]
   }
 ]

@@ -2,4 +2,8 @@
 title: "Home"
 ---
 
-This is a placeholder for the homepage.
+This website serves as a guide for setting up a media server with Jellyfin.  
+
+Jellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.
+
+Included in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.

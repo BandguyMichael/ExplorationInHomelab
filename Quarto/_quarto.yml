@@ -8,13 +8,13 @@ website:
     search: true
     contents:
        - index.qmd
-       - about.qmd
        - hardwareos.qmd
        - setup.qmd
        - access.qmd
        - configuration.qmd
        - accounts.qmd
        - iptv.qmd
+       - about.qmd
 
 format:
   html:

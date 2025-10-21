@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-Site by: Michael Leiby
-
-This is a placeholder for additional about info.
+This site was created by Michael Leiby for his Furman CSC-475 project.  The purpose of this site is to provide a guide on how to set up a media server using Jellyfin.  The information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums and other guides.
