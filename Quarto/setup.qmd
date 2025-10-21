@@ -3,3 +3,9 @@ title: "Setup"
 ---
 
 This is a placeholder for basic Jellyfin setup.
+
+[Installing jellyfin]
+
+[Setting up libraries]
+
+[Editing media metadata]

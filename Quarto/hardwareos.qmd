@@ -3,3 +3,9 @@ title: "Hardware and Operating Systems"
 ---
 
 This is a placeholder for hardware and OS info.
+
+[discuss purchasing a computer]
+
+[discuss renting a computer]
+
+[discuss windows vs linux]

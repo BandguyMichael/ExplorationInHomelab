@@ -3,3 +3,13 @@ title: "Remote Access"
 ---
 
 This is a placeholder for remote access.
+
+[How to connect within your local area network]
+
+[How to connect from outside your network]
+
+    - intro to tunnel software
+    - discuss the ones i've used (playit.gg, localtonet, pinggy)
+    - mention port forwarding as a possiblity?
+
+[discuss domains and how to use]

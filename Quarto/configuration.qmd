@@ -3,3 +3,13 @@ title: "Server Configuration"
 ---
 
 This is a placeholder for server configuration.
+
+[discuss trickplay]
+
+[scheduled tasks]
+
+[hardware acceleration]
+
+[plugins]
+
+[anything else?]
