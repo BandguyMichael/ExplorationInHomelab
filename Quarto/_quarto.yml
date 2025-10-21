@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: pulse
+    theme: architect  
     fontsize: 1.1em
     css: styles.css
     toc: true
