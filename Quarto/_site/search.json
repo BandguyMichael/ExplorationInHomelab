@@ -1,82 +1,12 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This site was created by Michael Leiby for his Furman CSC-475 project. The purpose of this site is to provide a guide on how to set up a media server using Jellyfin. The information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums and other guides.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "management.html",
-    "href": "management.html",
-    "title": "Account Management",
-    "section": "",
-    "text": "This is a placeholder for account management.",
-    "crumbs": [
-      "Account Management"
-    ]
-  },
-  {
-    "objectID": "iptv.html",
-    "href": "iptv.html",
-    "title": "IPTV",
-    "section": "",
-    "text": "This is a placeholder for IPTV.",
-    "crumbs": [
-      "IPTV"
-    ]
-  },
-  {
     "objectID": "setup.html",
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "This is a placeholder for basic Jellyfin setup.",
+    "text": "This is a placeholder for basic Jellyfin setup.\n[Installing jellyfin]\n[Setting up libraries]\n[Editing media metadata]",
     "crumbs": [
       "Setup"
-    ]
-  },
-  {
-    "objectID": "access.html",
-    "href": "access.html",
-    "title": "Remote Access",
-    "section": "",
-    "text": "This is a placeholder for remote access.",
-    "crumbs": [
-      "Remote Access"
-    ]
-  },
-  {
-    "objectID": "configuration.html",
-    "href": "configuration.html",
-    "title": "Server Configuration",
-    "section": "",
-    "text": "This is a placeholder for server configuration.",
-    "crumbs": [
-      "Server Configuration"
-    ]
-  },
-  {
-    "objectID": "accounts.html",
-    "href": "accounts.html",
-    "title": "Account Management",
-    "section": "",
-    "text": "This is a placeholder for account management.",
-    "crumbs": [
-      "Account Management"
-    ]
-  },
-  {
-    "objectID": "hardwareos.html",
-    "href": "hardwareos.html",
-    "title": "Hardware and Operating Systems",
-    "section": "",
-    "text": "This is a placeholder for hardware and OS info.",
-    "crumbs": [
-      "Hardware and Operating Systems"
     ]
   },
   {
@@ -87,6 +17,66 @@
     "text": "This website serves as a guide for setting up a media server with Jellyfin.\nJellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.\nIncluded in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "configuration.html",
+    "href": "configuration.html",
+    "title": "Server Configuration",
+    "section": "",
+    "text": "This is a placeholder for server configuration.\n[discuss trickplay]\n[scheduled tasks]\n[hardware acceleration]\n[plugins]\n[anything else?]",
+    "crumbs": [
+      "Server Configuration"
+    ]
+  },
+  {
+    "objectID": "access.html",
+    "href": "access.html",
+    "title": "Remote Access",
+    "section": "",
+    "text": "This is a placeholder for remote access.\n[How to connect within your local area network]\n[How to connect from outside your network]\n- intro to tunnel software\n- discuss the ones i've used (playit.gg, localtonet, pinggy)\n- mention port forwarding as a possiblity?\n[discuss domains and how to use]",
+    "crumbs": [
+      "Remote Access"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site was created by Michael Leiby for his Furman CSC-475 project. The purpose of this site is to provide a guide on how to set up a media server using Jellyfin. The information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums and other guides.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "accounts.html",
+    "href": "accounts.html",
+    "title": "Account Management",
+    "section": "",
+    "text": "This is a placeholder for account management.\n[intro to jfa-go]\n[how to add the software to jellyfin]\n[jfa-go configuration]",
+    "crumbs": [
+      "Account Management"
+    ]
+  },
+  {
+    "objectID": "hardwareos.html",
+    "href": "hardwareos.html",
+    "title": "Hardware and Operating Systems",
+    "section": "",
+    "text": "This is a placeholder for hardware and OS info.\n[discuss purchasing a computer]\n[discuss renting a computer]\n[discuss windows vs linux]",
+    "crumbs": [
+      "Hardware and Operating Systems"
+    ]
+  },
+  {
+    "objectID": "iptv.html",
+    "href": "iptv.html",
+    "title": "IPTV",
+    "section": "",
+    "text": "This is a placeholder for IPTV.\n[intro to iptv]\n[iptv setup]\n[guide setup?]\n[dvr setup?]",
+    "crumbs": [
+      "IPTV"
     ]
   }
 ]
