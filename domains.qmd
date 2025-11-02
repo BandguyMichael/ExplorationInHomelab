@@ -1,0 +1,10 @@
+---
+title: "Domain Configuration"
+---
+
+This is a placeholder for remote access.
+
+[discuss domains and how to use]
+    - how to obtain a domain
+    - basic configuration
+    - how to connect it to server

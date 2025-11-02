@@ -9,12 +9,17 @@ website:
     search: true
     contents:
        - index.qmd
-       - hardwareos.qmd
-       - setup.qmd
-       - access.qmd
-       - configuration.qmd
-       - accounts.qmd
-       - iptv.qmd
+       - section: "Basics"
+         contents:
+           - hardwareos.qmd
+           - setup.qmd
+           - access.qmd
+       - section: "Advanced"
+         contents:
+           - domains.qmd
+           - configuration.qmd
+           - accounts.qmd
+           - iptv.qmd
        - about.qmd
 
 format:
