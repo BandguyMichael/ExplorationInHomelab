@@ -6,6 +6,7 @@
     "section": "",
     "text": "This is a placeholder for basic Jellyfin setup.\n[Installing jellyfin]\n[Setting up libraries]\n[Editing media metadata]",
     "crumbs": [
+      "Basics",
       "Setup"
     ]
   },
@@ -14,29 +15,31 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This website serves as a guide for setting up a media server with Jellyfin.\nJellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.\nIncluded in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.",
+    "text": "This website serves as a guide for setting up a media server with Jellyfin.\nJellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.\nIncluded in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.\n[Embed an interactive area for the media server?]",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "configuration.html",
-    "href": "configuration.html",
-    "title": "Server Configuration",
+    "objectID": "domains.html",
+    "href": "domains.html",
+    "title": "Domain Configuration",
     "section": "",
-    "text": "This is a placeholder for server configuration.\n[discuss trickplay]\n[scheduled tasks]\n[hardware acceleration]\n[plugins]\n[anything else?]",
+    "text": "This is a placeholder for remote access.\n[discuss domains and how to use] - how to obtain a domain - basic configuration - how to connect it to server",
     "crumbs": [
-      "Server Configuration"
+      "Advanced",
+      "Domain Configuration"
     ]
   },
   {
-    "objectID": "access.html",
-    "href": "access.html",
-    "title": "Remote Access",
+    "objectID": "accounts.html",
+    "href": "accounts.html",
+    "title": "Account Management",
     "section": "",
-    "text": "This is a placeholder for remote access.\n[How to connect within your local area network]\n[How to connect from outside your network]\n- intro to tunnel software\n- discuss the ones i've used (playit.gg, localtonet, pinggy)\n- mention port forwarding as a possiblity?\n[discuss domains and how to use]",
+    "text": "This is a placeholder for account management.\n[intro to jfa-go]\n[how to add the software to jellyfin]\n[jfa-go configuration]",
     "crumbs": [
-      "Remote Access"
+      "Advanced",
+      "Account Management"
     ]
   },
   {
@@ -50,13 +53,25 @@
     ]
   },
   {
-    "objectID": "accounts.html",
-    "href": "accounts.html",
-    "title": "Account Management",
+    "objectID": "access.html",
+    "href": "access.html",
+    "title": "Remote Access",
     "section": "",
-    "text": "This is a placeholder for account management.\n[intro to jfa-go]\n[how to add the software to jellyfin]\n[jfa-go configuration]",
+    "text": "This is a placeholder for remote access.\n[How to connect within your local area network]\n[How to connect from outside your network]\n- intro to tunnel software\n- discuss the ones i've used (playit.gg, localtonet, pinggy)\n- mention port forwarding as a possiblity?",
     "crumbs": [
-      "Account Management"
+      "Basics",
+      "Remote Access"
+    ]
+  },
+  {
+    "objectID": "configuration.html",
+    "href": "configuration.html",
+    "title": "Server Configuration",
+    "section": "",
+    "text": "This is a placeholder for server configuration.\n[discuss trickplay]\n[scheduled tasks]\n[hardware acceleration]\n[plugins]\n[anything else?]",
+    "crumbs": [
+      "Advanced",
+      "Server Configuration"
     ]
   },
   {
@@ -66,6 +81,7 @@
     "section": "",
     "text": "This is a placeholder for hardware and OS info.\n[discuss purchasing a computer]\n[discuss renting a computer]\n[discuss windows vs linux]",
     "crumbs": [
+      "Basics",
       "Hardware and Operating Systems"
     ]
   },
@@ -76,6 +92,7 @@
     "section": "",
     "text": "This is a placeholder for IPTV.\n[intro to iptv]\n[iptv setup]\n[guide setup?]\n[dvr setup?]",
     "crumbs": [
+      "Advanced",
       "IPTV"
     ]
   }
