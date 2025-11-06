@@ -2,8 +2,14 @@
 title: "Demo"
 ---
 
-Here is a demo of what your server can look like!
+Here is an interactive demo of what your server can look like!
 
 ```{=html}
 <iframe width="780" height="500" src="http://stream.bandguymichael.org" title="Quarto Documentation"></iframe>
 ```
+
+Attributions for content used:
+
+(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+
+(c) copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs
