@@ -10,5 +10,5 @@ Included in this guide is information about choosing hardware and an operating s
 
 [Embed an interactive area for the media server?]
 ```{=html}
-<iframe width="780" height="500" src="https://quarto.org/" title="Quarto Documentation"></iframe>
+<iframe width="780" height="500" src="http://stream.bandguymichael.org" title="Quarto Documentation"></iframe>
 ```
