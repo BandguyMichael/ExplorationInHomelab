@@ -7,8 +7,3 @@ This website serves as a guide for setting up a media server with Jellyfin.
 Jellyfin is a free and open source media server that allows you to easily navigate your media, such as movies, TV shows, music, photos, and e-books.
 
 Included in this guide is information about choosing hardware and an operating system, setting up the server, configuring remote access, advanced server configuration, automated account management, and adding live TV.
-
-[Embed an interactive area for the media server?]
-```{=html}
-<iframe width="780" height="500" src="http://stream.bandguymichael.org" title="Quarto Documentation"></iframe>
-```

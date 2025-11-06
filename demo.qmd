@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+Here is a demo of what your server can look like!
+
+```{=html}
+<iframe width="780" height="500" src="http://stream.bandguymichael.org" title="Quarto Documentation"></iframe>
+```
