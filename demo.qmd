@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Demo"
 ---
 
 Here is a demo of what your server can look like!
