@@ -2,10 +2,10 @@
 title: "Setup"
 ---
 
-This is a placeholder for basic Jellyfin setup.
+This is a structure for basic Jellyfin setup.
 
-[Installing jellyfin]
+### Installing Jellyfin
 
-[Setting up libraries]
+### Adding and Configuring Libraries
 
-[Editing media metadata]
+### Configuring and Editing Metadata

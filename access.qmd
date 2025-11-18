@@ -2,12 +2,26 @@
 title: "Remote Access"
 ---
 
-This is a placeholder for remote access.
+This is a structure for remote access.
 
-[How to connect within your local area network]
+### Connecting in Your Local Network
 
-[How to connect from outside your network]
+### Connecting Outside Your Network
 
-    - intro to tunnel software
-    - discuss the ones i've used (playit.gg, localtonet, pinggy)
-    - mention port forwarding as a possiblity?
+#### Port Forwarding
+
+[What if you can't access the router?]
+
+#### What is Tunneling?
+
+#### Options
+
+##### Playit.gg
+
+##### Localtonet
+
+##### Pinggy
+
+##### Other Options
+
+[https://github.com/anderspitman/awesome-tunneling]: #

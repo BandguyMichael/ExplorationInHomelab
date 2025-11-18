@@ -2,10 +2,18 @@
 title: "Hardware and Operating Systems"
 ---
 
-This is a placeholder for hardware and OS info.
+This is a structure for hardware and OS info.
 
-[discuss purchasing a computer]
+### Hardware Selection
 
-[discuss renting a computer]
+#### CPU and GPU
 
-[discuss windows vs linux]
+#### Storage
+
+#### Other System Components
+
+### Operating Systems
+
+#### Windows
+
+#### Linux

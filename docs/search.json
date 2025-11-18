@@ -4,7 +4,7 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "This is a placeholder for basic Jellyfin setup.\n[Installing jellyfin]\n[Setting up libraries]\n[Editing media metadata]",
+    "text": "This is a structure for basic Jellyfin setup.\n\nInstalling Jellyfin\n\n\nAdding and Configuring Libraries\n\n\nConfiguring and Editing Metadata",
     "crumbs": [
       "Basics",
       "Setup"
@@ -47,7 +47,7 @@
     "href": "access.html",
     "title": "Remote Access",
     "section": "",
-    "text": "This is a placeholder for remote access.\n[How to connect within your local area network]\n[How to connect from outside your network]\n- intro to tunnel software\n- discuss the ones i've used (playit.gg, localtonet, pinggy)\n- mention port forwarding as a possiblity?",
+    "text": "This is a structure for remote access.\n\nConnecting in Your Local Network\n\n\nConnecting Outside Your Network\n\nPort Forwarding\n[What if you can’t access the router?]\n\n\nWhat is Tunneling?\n\n\nOptions\n\nPlayit.gg\n\n\nLocaltonet\n\n\nPinggy\n\n\nOther Options",
     "crumbs": [
       "Basics",
       "Remote Access"
@@ -79,7 +79,7 @@
     "href": "demo.html",
     "title": "Demo",
     "section": "",
-    "text": "Here is an interactive demo of what your server can look like!\n\nAttributions for content used:\n\ncopyright 2008, Blender Foundation / www.bigbuckbunny.org\ncopyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs",
+    "text": "Here is an interactive demo of what your server can look like!\n\nAttributions for content used:\nBig Buck Bunny (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org\nCode Rush (c) copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs",
     "crumbs": [
       "Demo"
     ]
@@ -89,7 +89,7 @@
     "href": "hardwareos.html",
     "title": "Hardware and Operating Systems",
     "section": "",
-    "text": "This is a placeholder for hardware and OS info.\n[discuss purchasing a computer]\n[discuss renting a computer]\n[discuss windows vs linux]",
+    "text": "This is a structure for hardware and OS info.\n\nHardware Selection\n\nCPU and GPU\n\n\nStorage\n\n\nOther System Components\n\n\n\nOperating Systems\n\nWindows\n\n\nLinux",
     "crumbs": [
       "Basics",
       "Hardware and Operating Systems"
