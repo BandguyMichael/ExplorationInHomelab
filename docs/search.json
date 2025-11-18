@@ -58,7 +58,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site was created by Michael Leiby for his Furman CSC-475 project. The purpose of this site is to provide a guide on how to set up a media server using Jellyfin. The information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums and other guides.",
+    "text": "This site was created for my CSC-475 project at Furman University. The purpose of this site is to provide a guide on how to set up a media server using Jellyfin, allowing worldwide access to media stored at home. This information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums.",
     "crumbs": [
       "About"
     ]
@@ -79,7 +79,7 @@
     "href": "demo.html",
     "title": "Demo",
     "section": "",
-    "text": "Here is an interactive demo of what your server can look like!\n\nAttributions for content used:\nBig Buck Bunny (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org\nCode Rush (c) copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs",
+    "text": "Here is an interactive demo of what your server can look like!\n\nAttributions for content used:\nBig Buck Bunny © copyright 2008, Blender Foundation / www.bigbuckbunny.org\nCode Rush © copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs",
     "crumbs": [
       "Demo"
     ]

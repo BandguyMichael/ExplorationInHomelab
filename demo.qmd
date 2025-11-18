@@ -10,6 +10,6 @@ Here is an interactive demo of what your server can look like!
 
 Attributions for content used:
 
-*Big Buck Bunny* \(c\) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+*Big Buck Bunny* &copy; copyright 2008, Blender Foundation / www.bigbuckbunny.org
 
-*Code Rush* \(c\) copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs
+*Code Rush* &copy; copyright 2000, David Winton / https://makertube.net/w/iNHBzq7vYn8Mkw82z6yNcs

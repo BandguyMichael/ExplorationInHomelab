@@ -22,6 +22,12 @@ website:
            - accounts.qmd
            - iptv.qmd
        - about.qmd
+  page-footer:
+    left: 
+      - "© 2025 Michael Leiby"
+      - icon: github
+        href: https://github.com/BandguyMichael
+      - "Created with Quarto"
 
 format:
   html:
