@@ -4,7 +4,7 @@
     "href": "setup.html",
     "title": "Setup",
     "section": "",
-    "text": "This is a structure for basic Jellyfin setup.\n\nInstalling Jellyfin\n\n\nAdding and Configuring Libraries\n\n\nConfiguring and Editing Metadata",
+    "text": "Installing Jellyfin\n\n\nAdding and Configuring Libraries\n\n\nConfiguring and Editing Metadata",
     "crumbs": [
       "Basics",
       "Setup"
@@ -25,7 +25,7 @@
     "href": "domains.html",
     "title": "Domain Configuration",
     "section": "",
-    "text": "This is a placeholder for remote access.\n[discuss domains and how to use] - how to obtain a domain - basic configuration - how to connect it to server",
+    "text": "Obtaining a Domain\n\n\nConfiguration\n\nDNS\n\n\n\nLink Domain to Server\n\nLocaltonet\n\n\nPinggy\n\n\nOther Services",
     "crumbs": [
       "Advanced",
       "Domain Configuration"
@@ -36,7 +36,7 @@
     "href": "configuration.html",
     "title": "Server Configuration",
     "section": "",
-    "text": "This is a placeholder for server configuration.\n[discuss trickplay]\n[scheduled tasks]\n[hardware acceleration]\n[plugins]\n[anything else?]",
+    "text": "Transcoding\n\n\nTrickplay\n\n\nScheduled Tasks\n\n\nPlugins\n\n\nOther Useful Configuration",
     "crumbs": [
       "Advanced",
       "Server Configuration"
@@ -47,7 +47,7 @@
     "href": "access.html",
     "title": "Remote Access",
     "section": "",
-    "text": "This is a structure for remote access.\n\nConnecting in Your Local Network\n\n\nConnecting Outside Your Network\n\nPort Forwarding\n[What if you can’t access the router?]\n\n\nWhat is Tunneling?\n\n\nOptions\n\nPlayit.gg\n\n\nLocaltonet\n\n\nPinggy\n\n\nOther Options",
+    "text": "Connecting in Your Local Network\n\n\nConnecting Outside Your Network\n\nPort Forwarding\n[What if you can’t access the router?]\n\n\nWhat is Tunneling?\n\n\nOptions\n\nPlayit.gg\n\n\nLocaltonet\n\n\nPinggy\n\n\nOther Options",
     "crumbs": [
       "Basics",
       "Remote Access"
@@ -68,7 +68,7 @@
     "href": "accounts.html",
     "title": "Account Management",
     "section": "",
-    "text": "This is a placeholder for account management.\n[intro to jfa-go]\n[how to add the software to jellyfin]\n[jfa-go configuration]",
+    "text": "What is jfa-go?\n\n\nHow to add jfa-go to Jellyfin\n\n\njfa-go Configuration",
     "crumbs": [
       "Advanced",
       "Account Management"
@@ -89,7 +89,7 @@
     "href": "hardwareos.html",
     "title": "Hardware and Operating Systems",
     "section": "",
-    "text": "This is a structure for hardware and OS info.\n\nHardware Selection\n\nCPU and GPU\n\n\nStorage\n\n\nOther System Components\n\n\n\nOperating Systems\n\nWindows\n\n\nLinux",
+    "text": "Hardware Selection\n\nCPU and GPU\n\n\nStorage\n\n\nOther System Components\n\n\n\nOperating Systems\n\nWindows\n\n\nLinux",
     "crumbs": [
       "Basics",
       "Hardware and Operating Systems"
@@ -100,7 +100,7 @@
     "href": "iptv.html",
     "title": "IPTV",
     "section": "",
-    "text": "This is a placeholder for IPTV.\n[intro to iptv]\n[iptv setup]\n[guide setup?]\n[dvr setup?]",
+    "text": "What is IPTV?\n\n\nSetting Up IPTV\n\n\nChannel Guide\n\n\nDVR Setup",
     "crumbs": [
       "Advanced",
       "IPTV"

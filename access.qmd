@@ -2,8 +2,6 @@
 title: "Remote Access"
 ---
 
-This is a structure for remote access.
-
 ### Connecting in Your Local Network
 
 ### Connecting Outside Your Network

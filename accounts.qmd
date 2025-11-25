@@ -2,10 +2,8 @@
 title: "Account Management"
 ---
 
-This is a placeholder for account management.
+### What is jfa-go?
 
-[intro to jfa-go]
+### How to add jfa-go to Jellyfin
 
-[how to add the software to jellyfin]
-
-[jfa-go configuration]
+### jfa-go Configuration

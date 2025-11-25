@@ -2,12 +2,10 @@
 title: "IPTV"
 ---
 
-This is a placeholder for IPTV.
+### What is IPTV?
 
-[intro to iptv]
+### Setting Up IPTV
 
-[iptv setup]
+### Channel Guide
 
-[guide setup?]
-
-[dvr setup?]
+### DVR Setup

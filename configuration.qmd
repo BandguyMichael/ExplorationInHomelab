@@ -2,14 +2,12 @@
 title: "Server Configuration"
 ---
 
-This is a placeholder for server configuration.
+### Transcoding
 
-[discuss trickplay]
+### Trickplay
 
-[scheduled tasks]
+### Scheduled Tasks
 
-[hardware acceleration]
+### Plugins
 
-[plugins]
-
-[anything else?]
+### Other Useful Configuration

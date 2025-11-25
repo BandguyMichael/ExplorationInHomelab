@@ -2,8 +2,6 @@
 title: "Setup"
 ---
 
-This is a structure for basic Jellyfin setup.
-
 ### Installing Jellyfin
 
 ### Adding and Configuring Libraries

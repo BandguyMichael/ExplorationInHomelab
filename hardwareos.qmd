@@ -2,8 +2,6 @@
 title: "Hardware and Operating Systems"
 ---
 
-This is a structure for hardware and OS info.
-
 ### Hardware Selection
 
 #### CPU and GPU
