@@ -89,7 +89,7 @@
     "href": "hardwareos.html",
     "title": "Hardware and Operating Systems",
     "section": "",
-    "text": "Hardware Selection\n\nCPU and GPU\n\n\nStorage\n\n\nOther System Components\n\n\n\nOperating Systems\n\nWindows\n\n\nLinux",
+    "text": "Hardware Selection\n\nCPU and GPU\n\n\nStorage\nThe amount of storage required in your server will depend on what kinds of media you intend to store, how much media you will be storing, and the quality if your media. Additionally, less storage is necessary if you compress media from its original state. Below is a list of the storage required for several common types of media:\n\n\n\nMedia Type\nStorage Required\n\n\n\n\nPhoto\n1-10 megabytes\n\n\neBook\n1 megabyte - 1 gigabyte\n\n\nPhone Video\n40-500 megabytes/min\n\n\nCD\n700 megabytes\n\n\nVHS Tape\n1-15 gigabytes/hr\n\n\nDVD\n4.7-8.5 gigabytes\n\n\nBlu-Ray\n25-50 gigabytes\n\n\n4K Blu-Ray\n50-100 gigabytes\n\n\n\nBased on the numbers above, here are a few use cases and the amount of storage I would recommend:\n\nFor backing up photos and videos from your phone or camera, it’s unlikely you’ll need more than 1 terabyte of storage.\nSimilarly, if you back up CDs to your server, you shouldn’t need more than 1 terabyte, unless you have a very extensive collection.\nIf you will be backing up DVDs and/or VHS tapes, 2-4 terabytes should be enough storage; Extensive collections may require 6-8 terabytes.\nArchiving Blu-Ray discs to your server will require a lot of storage. A small to medium collection would require about 10-20 terabytes, while an extensive collection may require at least 50 terabytes.\n\n\n\nOther System Components\n\n\n\nOperating Systems\n\nWindows\n\n\nLinux",
     "crumbs": [
       "Basics",
       "Hardware and Operating Systems"
