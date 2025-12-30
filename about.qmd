@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-This site was created for my CSC-475 project at Furman University.  The purpose of this site is to provide a guide on how to set up a media server using Jellyfin, allowing worldwide access to media stored at home.  This information is a culmination of over a year and a half of personal experimentation, troubleshooting, and browsing forums.
+This site was created for my CSC-475 capstone project at Furman University.  The purpose of this site is to provide a guide on how to set up a media server using Jellyfin and configure worldwide access to media stored at home.  All the information provided has been gathered through use and experimentation of my server, troubleshooting of numerous issues, and reading forums and other guides.
+
+Disclaimer: Neither I nor this website are affiliated with the Jellyfin organization and this is not an official guide.

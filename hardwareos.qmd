@@ -4,7 +4,7 @@ title: "Hardware and Operating Systems"
 
 ### Hardware Selection
 
-#### CPU and GPU
+#### Processor
 
 #### Storage
 
